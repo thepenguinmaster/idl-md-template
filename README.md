@@ -14,5 +14,5 @@ If the lab repository contains any associated videos and screenshots, they can
 be found in the [videos](/videos) and [screenshots](/screenshots) folders,
 respectively.
 
-To learn how to create your own IDL in Markdown lab, see
+To learn how to create your own IDL in Markdown lab, look
 [here](https://github.com/LearnOnDemandSystems/idl-md). 
